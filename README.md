@@ -1,8 +1,8 @@
-# MEG-Based ADHD vs Healthy Control Classification
+# MEG-Based Attention Modeling for Neurophysiological Classification
 
 ## Overview
 
-This project explores deep-learning–based classification of **ADHD and healthy control subjects** using MEG recordings.  
+This project explores deep-learning–based approaches for distinguishing **ADHD and healthy control subjects** using MEG recordings.  
 The focus is on building an end-to-end signal processing and modeling pipeline, with additional emphasis on interpretability through attention mechanisms.
 
 ---
