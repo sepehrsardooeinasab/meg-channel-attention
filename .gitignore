@@ -1,2 +1,3 @@
-results/MEGNet_CA0R/.DS_Store
+__pycache__/
+*.pyc
 .DS_Store
