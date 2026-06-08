@@ -47,8 +47,8 @@ The following results correspond to one experimental configuration and are repor
 | Metric        | Mean (%) | ± Std |
 |---------------|----------|-------|
 | Accuracy      | 87.300   | 17.591 |
-| Sensitivity   | 84.733   | 21.248 |
-| Specificity   | 89.867   | 12.418 |
+| Sensitivity   | 89.867   | 12.418 |
+| Specificity   | 84.733   | 21.248 |
 
 ---
 
